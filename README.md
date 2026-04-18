@@ -25,9 +25,9 @@ Langkah ini bertujuan untuk menyalakan mesin penyimpan data menu dan pesanan.
 2. Buka terminal baru (Pilih menu `Terminal` > `New Terminal`).
 3. Masuk ke dalam folder backend, instal library pendukung, dan nyalakan server dengan mengetik perintah berikut secara berurutan:
    
-   cd backend-sudi-mampir
-   npm install
-   node server.js
+   - cd backend-sudi-mampir
+   - npm install
+   - node server.js
 
 > **PENTING:** Biarkan terminal ini tetap menyala di latar belakang. Jika berhasil, akan muncul tulisan *"Server jalan di http://localhost:5000"*.
 
@@ -36,9 +36,9 @@ Langkah ini bertujuan untuk menampilkan halaman web React ke browser.
 1. Buka **Terminal Baru** di VS Code (klik ikon `+` di panel terminal atau gunakan fitur *Split Terminal*). **Jangan tutup terminal pertama!**
 2. Di terminal yang baru ini, masuk ke folder frontend, instal library, dan jalankan webnya:
    
-   cd frontend-react-app
-   npm install
-   npm start
+   - cd frontend-react-app
+   - npm install
+   - npm start
 
 > Setelah perintah terakhir dijalankan, browser akan otomatis terbuka dan menampilkan aplikasi di alamat `http://localhost:3000`.
 
